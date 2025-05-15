@@ -7,3 +7,6 @@ Thumbs.db
 
 # IDE settings
 .vscode/
+
+# Docker files
+.devcontainer/
